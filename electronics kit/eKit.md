@@ -7,6 +7,8 @@
 
 1 - [MicroController: ESP32-S3-DEVKITC-1-N8R8-ND by Espressif Systems](https://www.digikey.com/en/products/detail/espressif-systems/ESP32-S3-DEVKITC-1-N8R8/15295894)
 
+1 - [USB Cable: USB-A to Micro: (if buying elsewhere, make sure it's both power & data)](https://www.digikey.com/en/products/detail/stewart-connector/SC-2AMK003F/8544577)
+
 1 - [BreadBoard: Double Wide, 1660-Point](https://www.digikey.com/en/products/detail/busboard-prototype-systems/BB1660/19200358)
 
 1 - [Hook-up Wire: Solid Core, 22AWG, 25'](https://www.digikey.com/en/products/detail/sparkfun-electronics/PRT-08026/6833924)
@@ -29,6 +31,8 @@
 
 1 - [Piezo Buzzer](https://www.digikey.com/en/products/detail/pui-audio-inc/AT-1224-TWT-5V-2-R/5011404)
 
+10 - [Capacitor: 100nF, Ceramic](https://www.digikey.com/en/products/detail/tdk-corporation/FG18X7R1H104KNT06/5802879)
+
 LEDs:
 
 3 - [Blue](https://www.digikey.com/en/products/detail/cree-led/C503B-BAN-CZ0A0452/2341534)
@@ -41,15 +45,14 @@ LEDs:
 
 Resistors (1/4W, 5%, Axial):
 
-10 - [100kOhm](https://www.digikey.com/en/products/detail/yageo/CFR-25JR-52-100K/12022)
+10 - [100kΩ](https://www.digikey.com/en/products/detail/yageo/CFR-25JR-52-100K/12022)
 
-10 - [10kOhm](https://www.digikey.com/en/products/detail/yageo/CFR-25JB-52-10K/338)
+10 - [10kΩ](https://www.digikey.com/en/products/detail/yageo/CFR-25JB-52-10K/338)
 
-10 - [1kOhm](https://www.digikey.com/en/products/detail/yageo/CFR-25JB-52-1K/96)
+10 - [1kΩ](https://www.digikey.com/en/products/detail/yageo/CFR-25JB-52-1K/96)
 
-10 - [470kOhm](https://www.digikey.com/en/products/detail/yageo/CFR-25JT-52-470R/9098627)
+10 - [470kΩ](https://www.digikey.com/en/products/detail/yageo/CFR-25JT-52-470R/9098627)
 
-1 - [USB Cable: USB-A to Micro: (if buying elsewhere, make sure it's both power & data)](https://www.digikey.com/en/products/detail/stewart-connector/SC-2AMK003F/8544577)
  
 ### **You can purchase everything from DigiKey by clicking [HERE](https://www.digikey.com/short/w5mhqc7c).**
 
