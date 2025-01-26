@@ -12,8 +12,7 @@ Physical Computing
 Professor: Ian Pokorny    
 Wednesdays, 10:00 AM - 1:40 PM   
 Modality: Hybrid Synchronous    
-Location: V-225, Voorhees Hall 
-Course site: https:/ /github.com/entertainmenttechnology/Pokorny-MTEC2280_HD11-12-Spring2025                  
+Location: V-225, Voorhees Hall                
 Discord: See email invitation    
 Email: IPokorny@citytech.cuny.edu   
 Office hours: Thursday 2pm-4pm (via Zoom or Discord), and by appointment. Sign up for oﬃce hours through Discord DM or Email.
