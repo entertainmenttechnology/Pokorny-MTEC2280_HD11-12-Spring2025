@@ -7,7 +7,7 @@
 
 1 - [MicroController: ESP32-S3-DEVKITC-1-N8R8-ND by Espressif Systems](https://www.digikey.com/en/products/detail/espressif-systems/ESP32-S3-DEVKITC-1-N8R8/15295894)
 
-1 - [USB Cable: USB-A to Micro: (if buying elsewhere, make sure it's both power & data)](https://www.digikey.com/en/products/detail/stewart-connector/SC-2AMK003F/8544577)
+1 - [USB Cable: USB-A to Micro (if buying elsewhere, make sure it's both power & data)](https://www.digikey.com/en/products/detail/stewart-connector/SC-2AMK003F/8544577)
 
 1 - [BreadBoard: Double Wide, 1660-Point](https://www.digikey.com/en/products/detail/busboard-prototype-systems/BB1660/19200358)
 
