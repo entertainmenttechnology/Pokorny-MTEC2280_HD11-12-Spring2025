@@ -1,7 +1,7 @@
-## **ELECTRONICS KIT**  
+# **ELECTRONICS KIT**  
 
 
-### **IMPORTANT: BRING KIT TO EVERY CLASS SESSION STARTING 2/26**
+## **IMPORTANT: BRING KIT TO EVERY CLASS SESSION STARTING 2/26**
 
 **<><><><><><><><><><><><><><><><><><><><><><><><><><><><><>**
 
@@ -53,6 +53,7 @@ Resistors (1/4W, 5%, Axial):
 
 10 - [470kΩ](https://www.digikey.com/en/products/detail/yageo/CFR-25JT-52-470R/9098627)
 
+ **<><><><><><><><><><><><><><><><><><><><><><><><><><><><><>**
  
 ### **You can purchase everything from DigiKey by clicking [HERE](https://www.digikey.com/short/1mw4z777).**
 
