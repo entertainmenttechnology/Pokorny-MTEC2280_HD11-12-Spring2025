@@ -57,7 +57,7 @@ Resistors (1/4W, 5%, Axial):
  
 ### **You can purchase everything from DigiKey by clicking [HERE](https://www.digikey.com/short/1mw4z777).**
 
-That DigiKey link is the easiest way to ensure you have all required materials for the course. You can buy materials elsewhere, but please send item links to me before purchasing for review. 
+That DigiKey link is the simplest way to ensure you have all required materials for the course. You can buy materials elsewhere, but please send item links to me before purchasing for review. 
 
 If you order from DigiKey, make sure that item is currently in stock when you add to cart. Sometimes an item go out of stock, and the order will ship without back-ordered items. Please notify me if you see that one of these items has gone out of stock on DigiKey.
 
