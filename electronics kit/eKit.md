@@ -54,7 +54,7 @@ Resistors (1/4W, 5%, Axial):
 10 - [470kΩ](https://www.digikey.com/en/products/detail/yageo/CFR-25JT-52-470R/9098627)
 
  
-### **You can purchase everything from DigiKey by clicking [HERE](https://www.digikey.com/short/w5mhqc7c).**
+### **You can purchase everything from DigiKey by clicking [HERE](https://www.digikey.com/short/1mw4z777).**
 
 That DigiKey link is the easiest way to ensure you have all required materials for the course. You can buy materials elsewhere, but please send item links to me before purchasing for review. 
 
