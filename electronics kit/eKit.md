@@ -1,7 +1,7 @@
 ## **ELECTRONICS KIT**  
 
 
-### **IMPORTANT: BRING KIT TO EVERY CLASS SESSION BEGINNING 2/26**
+### **IMPORTANT: BRING KIT TO EVERY CLASS SESSION STARTING 2/26**
 
 **<><><><><><><><><><><><><><><><><><><><><><><><><><><><><>**
 
