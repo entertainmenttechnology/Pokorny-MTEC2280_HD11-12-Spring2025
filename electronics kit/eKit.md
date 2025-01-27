@@ -31,7 +31,7 @@
 
 1 - [Piezo Buzzer](https://www.digikey.com/en/products/detail/pui-audio-inc/AT-1224-TWT-5V-2-R/5011404)
 
-10 - [Capacitor: 100nF, Ceramic](https://www.digikey.com/en/products/detail/tdk-corporation/FG18X7R1H104KNT06/5802879)
+10 - [Capacitor: 100nF (0.1uF), Ceramic](https://www.digikey.com/en/products/detail/tdk-corporation/FG18X7R1H104KNT06/5802879)
 
 LEDs:
 
