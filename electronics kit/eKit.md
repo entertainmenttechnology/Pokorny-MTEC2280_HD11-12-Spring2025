@@ -51,7 +51,7 @@ Resistors (1/4W, 5%, Axial):
 
 10 - [1kΩ](https://www.digikey.com/en/products/detail/yageo/CFR-25JB-52-1K/96)
 
-10 - [470kΩ](https://www.digikey.com/en/products/detail/yageo/CFR-25JT-52-470R/9098627)
+10 - [470Ω](https://www.digikey.com/en/products/detail/yageo/CFR-25JT-52-470R/9098627)
 
  **<><><><><><><><><><><><><><><><><><><><><><><><><><><><><>**
  
