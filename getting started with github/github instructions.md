@@ -42,9 +42,7 @@ _If you are completely new to GitHub, I recommend using GitHub Desktop, a visual
     * For example, if you are working on two separate computers, you may need to "pull" changes from the online repo to the local repo.
     * In the desktop app menu, go to Repository--> Pull. 
 
-**Authenticating to GitHub**: You may receive an error during set up if you have not authenticated your GitHub account yet. Follow [instructions for authenticating to GitHub](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/installing-and-authenticating-to-github-desktop/authenticating-to-github).  
-
-_We will get into more GitHub basics as we go!_
+**Authenticating to GitHub**: You may receive an error during set up if you have not authenticated your GitHub account yet. Follow [instructions for authenticating to GitHub](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/installing-and-authenticating-to-github-desktop/authenticating-to-github).      
 
 ## More Newbie Help
   
@@ -70,6 +68,6 @@ _You are also welcome to use any GitHub GUI that you prefer, whatever gets the j
   
 1. **Create a new repository**, locally and online, titled PhysComp_FirstName (for example: PhysComp_Ian). 
 
-2. **Send me your GitHub user name on Slack.**
+2. **Send me your GitHub user name on Discord.**
   
 3. **Go through all past assignments and re-label as needed**, with the short study # and title (SS#_Title), making sure that each Processing .pde file is contained within a folder of the same name. For example, "SS1_Triangle_Magic.pde" should be contained within folder "SS1_Triangle_Magic". And so on. **Push all assignments to your repository**. Double check that your online and local repos are synched and up to date.
