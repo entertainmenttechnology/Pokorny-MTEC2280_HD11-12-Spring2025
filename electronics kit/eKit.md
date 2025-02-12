@@ -19,7 +19,7 @@
 
 2 - [PushButton Switches: SPST, Panel Mount](https://www.digikey.com/en/products/detail/adam-tech/SW-PB1-1DZ-A-P1-A/15284415)
 
-1 - [Jumper Wires: M-to-F 6"](https://www.digikey.com/en/products/detail/adafruit-industries-llc/1954/6827087)
+1 - [Jumper Wires: M-to-F 6"](https://www.digikey.com/en/products/detail/sparkfun-electronics/PRT-12794/5993859)
 
 1 - [Jumper Wires: M-to-M 6"](https://www.digikey.com/en/products/detail/adafruit-industries-llc/1957/6827090)
 
