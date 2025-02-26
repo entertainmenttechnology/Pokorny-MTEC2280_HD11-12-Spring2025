@@ -8,7 +8,7 @@ Must Include:
 - declaration and use of at least 3 variables
 - use of at least two conditional [if / else] statements
 - use of delay() function
-- use of NOT [!] logical comparator
+- use of logical comparator in at least one condition statement
 - must display at least 4 unique LED patterns
 
 Send me the the link to your GitHub repo (URL, not .git) via Discord if you have not already done so. This is where I will check for your completed work from now on.
