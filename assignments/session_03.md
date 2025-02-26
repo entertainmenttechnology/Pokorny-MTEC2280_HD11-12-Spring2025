@@ -19,6 +19,7 @@ Send me the the link to your GitHub repo (URL, not .git) via Discord if you have
 
 * [ESP32-S3 Pin Layout Diagram](https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32s3/_images/ESP32-S3_DevKitC-1_pinlayout_v1.1.jpg)
 
-* [Arduino Reference](https://docs.arduino.cc/language-reference/)
+* [ESP32-S3 PinOut Explained](https://www.luisllamas.es/en/esp32-s3-hardware-details-pinout/)
 
+* [Arduino Reference](https://docs.arduino.cc/language-reference/)
 
