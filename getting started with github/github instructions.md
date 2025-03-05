@@ -70,4 +70,4 @@ _You are also welcome to use any GitHub GUI that you prefer, whatever gets the j
 
 2. **Send me your GitHub user name on Discord.**
   
-3. **Go through all past assignments and re-label as needed**, with the short study # and title (SS#_Title), making sure that each Processing .pde file is contained within a folder of the same name. For example, "SS1_Triangle_Magic.pde" should be contained within folder "SS1_Triangle_Magic". And so on. **Push all assignments to your repository**. Double check that your online and local repos are synched and up to date.
+3. **Go through all past assignments and re-label as needed**, with the short study # and title (SS#_Title), making sure that each Arduino .ino file is contained within a folder of the same name. For example, "SS1_LEDs.ino" should be contained within folder "SS1_LEDs". And so on. **Push all assignments to your repository**. Double check that your online and local repos are synched and up to date.
