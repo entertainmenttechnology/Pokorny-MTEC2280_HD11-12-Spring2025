@@ -21,6 +21,8 @@ Send me the the link to your GitHub repo (URL, not .git) via Discord if you have
 
 * [digitalRead()](https://docs.arduino.cc/language-reference/en/functions/digital-io/digitalread/)
 
+* [digitalWrite()](https://docs.arduino.cc/language-reference/en/functions/digital-io/digitalwrite/)
+
 * [analogRead()](https://docs.arduino.cc/language-reference/en/functions/analog-io/analogRead/)
 
 * [analogReadResolution()](https://docs.arduino.cc/language-reference/en/functions/analog-io/analogReadResolution/)
