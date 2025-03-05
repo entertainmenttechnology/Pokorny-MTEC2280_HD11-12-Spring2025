@@ -48,11 +48,11 @@ Focus on human interaction:
 NOTE: this is the minimum that must be included in final version of Midterm Project. I highly encourage you to push yourself (both technically & creatively) and include more if time allows.
 
 Reccomendations:
-    - Scope the project appropriately for alloted time.     
-    - Prioritize compelling concepts and choices over volume.      
-	- Focus on the user experience. Test the device with this in mind.       
-	- Save often and a lot! Back up your work! Use GitHub repo and push to origin at regular intervals.      
-	- Serial.print() is your friend. Use it to debug your code and gain insights.       
+- Scope the project appropriately for alloted time.     
+- Prioritize compelling concepts and choices over volume.      
+- Focus on the user experience. Test the device with this in mind.       
+- Save often and a lot! Back up your work! Use GitHub repo and push to origin at regular intervals.      
+- Serial.print() is your friend. Use it to debug your code and gain insights.       
 	
 
 ## DUE DATES:
