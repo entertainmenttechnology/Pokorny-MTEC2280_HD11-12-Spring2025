@@ -11,8 +11,7 @@ ADC Reads can sometimes be noisy and jumpy...
 1. use analogReadResolution to reduce bit depth
 2. implement a simple rolling average to filter (smooth) out read value
 
-The ESP32 does not have linear ADC response above 3V, so use circuit on schematic "Potentiometer-Photocell"
-- https://github.com/entertainmenttechnology/Pokorny-MTEC2280_HD11-12-Spring2025/blob/main/schematics/Schematic_Potentiometer-PhotoCell.pdf
+- The ESP32 does not have linear ADC response above 3V, so use circuit in schematic repo: "Potentiometer-Photocell"
 
 - This example also shows use of map() function
 - You can use an LDR in place of a potentiometer in this example
@@ -26,6 +25,9 @@ REFERENCE:
 */
 const int pinRGB = 38;    //built-in rgb led
 const int potPin = 1;     //potentiometer pin
+
+//adjust numReads to increase or reduce amount of smoothing, but beware of adding too much!
+//try it and find out...
 const int numReads = 16;  //number of readings in rolling average 
 int reading[numReads];    //array of integers with length of numReads
 int count = 0;            //counter to keep track of how many reads
