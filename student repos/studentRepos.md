@@ -15,3 +15,6 @@
 * [Stephany](https://github.com/sip227/PhysComp_Stephany)
 
 * [Aaron](https://github.com/AaronAcc117/MTEC2280)
+
+* [Angel](https://github.com/Angel03a/mtec2280)
+
