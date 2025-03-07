@@ -8,7 +8,7 @@
 
 * [Reginald](https://github.com/ReginaldFairley/mtec2280_test)
 
-* [Rukaya](https://github.com/rakinola-citytech/MTEC2280_Spring2025)
+* [Rukayat](https://github.com/rakinola-citytech/MTEC2280_Spring2025)
 
 * [Gabriel](https://github.com/UbiquitousGabriel/MTEC2280_GAA)
 
