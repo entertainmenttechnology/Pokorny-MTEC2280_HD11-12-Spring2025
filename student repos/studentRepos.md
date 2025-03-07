@@ -13,3 +13,5 @@
 * [Gabriel](https://github.com/UbiquitousGabriel/MTEC2280_GAA)
 
 * [Stephany](https://github.com/sip227/PhysComp_Stephany)
+
+* [Aaron](https://github.com/AaronAcc117/MTEC2280)
