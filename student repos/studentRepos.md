@@ -18,3 +18,5 @@
 
 * [Angel](https://github.com/Angel03a/mtec2280)
 
+* [Noel](https://github.com/Noelnova23/Noel-2280)
+
