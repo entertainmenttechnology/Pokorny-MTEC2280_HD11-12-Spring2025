@@ -20,3 +20,5 @@
 
 * [Noel](https://github.com/Noelnova23/Noel-2280)
 
+* [Jason](https://github.com/jbirch2002/PhysComp_Jason)
+
