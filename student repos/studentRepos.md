@@ -22,7 +22,7 @@
 
 * [Olivia](https://github.com/socksandaphone/PhysComp_Olivia)
 
-* 
+* [Bruce](https://github.com/Behlul10/Phys-Comp_Spring-2025_Behlul)
 
 *
 
