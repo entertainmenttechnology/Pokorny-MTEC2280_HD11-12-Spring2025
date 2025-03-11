@@ -24,7 +24,7 @@
 
 * [Bruce](https://github.com/Behlul10/Phys-Comp_Spring-2025_Behlul)
 
-*[Jaylin](https://github.com/ayojay222/physcomp_Jaylin)
+* [Jaylin](https://github.com/ayojay222/physcomp_Jaylin)
 
 *
 
