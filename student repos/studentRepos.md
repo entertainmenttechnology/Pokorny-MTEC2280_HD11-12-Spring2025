@@ -1,7 +1,5 @@
 ## STUDENT GITHUB REPOS
 
-* [Jaylin]()
-
 * [Ricardi](https://github.com/Ricardirich/RicardiRicheMTEC2280)
 
 * [Peter](https://github.com/PeterCarnival/carnival_mtec2280)
@@ -24,3 +22,14 @@
 
 * [Olivia](https://github.com/socksandaphone/PhysComp_Olivia)
 
+* 
+
+*
+
+*
+
+*
+
+*
+
+*
