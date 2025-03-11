@@ -1,6 +1,6 @@
 ## STUDENT GITHUB REPOS
 
-* [Jaylin](https://github.com/ayojay222/jaylin_logan_asssignment3)
+* [Jaylin]()
 
 * [Ricardi](https://github.com/Ricardirich/RicardiRicheMTEC2280)
 
