@@ -28,14 +28,14 @@ void loop()
 
   for (int i = 0; i < 255; i++)  //starting from 0, incrementing to 255
   {
-    analogWrite(ledPin, i); //send PWM signal @ current i value in for loop
+    analogWrite(ledPin, i); //send PWM signal @ current i value
     delay(ms);
     Serial.printf("FOR LOOP 1: %i \n",i);
   }
 
   for (int i = 255; i > 0; i--) //starting from 255, decrementing to 0
   {
-    analogWrite(ledPin, i); //send PWM signal @ current i value in for loop
+    analogWrite(ledPin, i); //send PWM signal @ current i value
     delay(ms);
     Serial.printf("FOR LOOP 2: %i \n",i);
   }
