@@ -26,7 +26,7 @@
 
 * [Jaylin](https://github.com/ayojay222/physcomp_Jaylin)
 
-*
+* [Trevor](https://github.com/TrevorAJRTriumph/TrevorTriumphMtec2280)
 
 *
 
