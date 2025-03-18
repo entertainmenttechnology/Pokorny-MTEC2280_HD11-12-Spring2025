@@ -15,10 +15,8 @@ REFERENCE:
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 */
 
-const int ledPin = 4;
 const int piezoPin = 21;
 const int touchPin = 10;
-int ms = 30; //adjust to speed up/slow down
 
 void setup() 
 {
