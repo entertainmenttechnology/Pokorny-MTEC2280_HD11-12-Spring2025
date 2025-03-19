@@ -37,3 +37,6 @@ You may also use touchRead() as your analog sensor, though keep in mind that the
 * [Arduino: Serial.write()](https://docs.arduino.cc/language-reference/en/functions/communication/serial/write/)
 
 * [Arduino: UART Explained](https://docs.arduino.cc/learn/communication/uart/)
+
+Upload your completed code (both arduino & processing) to your repo before the beginnning of next class session. 
+Have your project (both hardware and software aspects) ready to present at the next class critique.
