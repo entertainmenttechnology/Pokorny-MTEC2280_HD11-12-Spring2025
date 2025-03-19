@@ -43,7 +43,7 @@ void loop()
     adcRead = analogRead(adcPin); //read sensor and assign to variable called adcRead
 
     /*
-      NOTE: Uncomment Serial.print() OR Serial.write(), but not both!
+      NOTE: Uncomment Serial.println() OR Serial.write(), but not both!
     */
 
     //Serial. println(val); //to send human-readable data to Arduino monitor
