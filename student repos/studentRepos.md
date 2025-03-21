@@ -28,6 +28,6 @@
 
 * [Trevor](https://github.com/TrevorAJRTriumph/TrevorTriumphMtec2280)
 
-*
+* [Jay](https://github.com/TarnishedAyame/Mtec2280)
 
 *
