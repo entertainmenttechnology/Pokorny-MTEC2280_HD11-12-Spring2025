@@ -1,3 +1,13 @@
+/*
+  ARDUINO-TO_PROCESSING VIA UART
+  - Receives 4 1-byte values from arduino and stores in array
+  REFERENCE:
+  https://processing.org/reference/libraries/serial/index.html
+  https://processing.org/reference/libraries/serial/Serial_readBytesUntil_.html
+  https://processing.org/reference/Array.html
+*/
+
+
 import processing.serial.*; //imports Serial library from Processing
 
 Serial myPort; // creates object from Serial class
@@ -20,19 +30,21 @@ void draw()
 {
   if (myPort.available() > 0 ) 
   {
-      val = myPort.readBytesUntil('e');
+    //read received bytes into array until 'e' ASCII value is received
+    val = myPort.readBytesUntil('e'); 
   }
   
   if (val.length == 5)
   {
-    println(val);
+    println(val); //print val array to confirm data arrived
+    //mapping -128 to 127 into 0 to 255 range, and Casting to integer
     int pot_1 = int(map(val[2], -128, 127, 0, 255));
     int pot_2 = int(map(val[3], -128, 127, 0, 255));
     
+    //casting Byte button values to boolean
     boolean b_1 = boolean(val[0]);
     boolean b_2 = boolean(val[1]);
 
-    //draws an ellipse that grows and shrinks in relation to val
     background(255);
     fill (pot_1, pot_2, 0);
     ellipse (width/2, height/2, pot_1, pot_1);
@@ -59,7 +71,7 @@ void draw()
       rect(width - width/8, height/2, 30, 30);
     }
  
-    //prints R & G values to canvas
+    //print pot values to canvas
     fill(0);
     text("POT 1: " + pot_1, width/2, height/10);
     text("POT 2: " + pot_2, width/2, height/6);
