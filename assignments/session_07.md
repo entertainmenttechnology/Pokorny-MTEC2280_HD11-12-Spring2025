@@ -20,7 +20,7 @@ Use a hardware analog sensor to control a software Processing sketch. You may us
 - display window width: max of 1080, min of 400
 - display window height: max of 720, min of 400
 
-Feel free to use images, sound library, etc. The content is completely up to you, but it need to be controlled by Serial UART from Microcontroller.             
+Feel free to use images, sound library, etc. The content is completely up to you, but it needs to be controlled by Serial UART from Microcontroller.             
 
 You may also use touchRead() as your analog sensor, though keep in mind that the range is considerably larger than 8-bit!
 
