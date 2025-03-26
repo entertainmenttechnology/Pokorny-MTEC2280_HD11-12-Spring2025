@@ -4,7 +4,7 @@
 ||    "Multiple Sensors to Processing"    ||
 ||||||||||||||||||||||||||||||||||||||||||||     
 - Example of sending 4 bytes via UART to Processing
-- We are using the ASCII character 'e' to signel end of message  
+- We are using the ASCII character 'e' to signal end of transmitted message  
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 */
 
