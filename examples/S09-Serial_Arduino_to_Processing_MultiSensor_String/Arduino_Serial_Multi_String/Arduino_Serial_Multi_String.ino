@@ -34,7 +34,7 @@ void setup()
   //set button pin modes to Input with internal Pullup resistors
   pinMode(buttonPin_1, INPUT_PULLUP); 
   pinMode(buttonPin_2, INPUT_PULLUP);
-  analogReadResolution(10);  //since we only need 0-255 range, set ADC resolution to 8-bit (1-byte)
+  analogReadResolution(10); 
   Serial.begin(115200); //start serial comm @ 115200 baud rate
 }
 
