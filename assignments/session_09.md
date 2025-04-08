@@ -1,4 +1,4 @@
-## SESSION 08
+## SESSIONS 09 & 10
 
 ## FINAL PROPOSAL: DUE 4/23
 Your Final Proposal is due before class on 4/23. 
