@@ -44,7 +44,7 @@ void draw()
   text ("no light", width/2, height-height/4);
 
   //mouse location controls communication to Serial 
-  if (mouseY > width/2 && mouseY < height) 
+  if (mouseY > height/2 && mouseY < height) 
   {  
     myPort.write(0); //send a 0
     //println ("0");
