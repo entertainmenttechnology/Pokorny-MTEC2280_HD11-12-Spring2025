@@ -34,10 +34,6 @@ const int buttonPin_2 = 13;
 //Button Variables
 bool buttonState_1 = 0;
 bool buttonState_2 = 0;
-bool buttonToggle_1 = 0;
-bool buttonToggle_2 = 0;
-bool prevButtonState_1 = 0;
-bool prevButtonState_2 = 0;
 
 //Pot Variables
 int adcRead_1 = 0;

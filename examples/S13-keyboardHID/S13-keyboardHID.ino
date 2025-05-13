@@ -16,9 +16,8 @@ https://docs.arduino.cc/built-in-examples/usb/KeyboardAndMouseControl/
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 */
 
-//include USB& Keyboard libraries
+//include USB & Keyboard libraries
 #include "USB.h"
-#include "USBHIDMouse.h"
 #include "USBHIDKeyboard.h"
 
 //create keyboard object
