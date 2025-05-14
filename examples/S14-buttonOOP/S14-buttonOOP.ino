@@ -10,7 +10,7 @@
     - button logic: momentary press, toggling switch, rising & falling edges (aka press & release).
   - See Button.h include file for more info
 
-  NOTE: include files that are not installed via library (like rthis one) must be copied into arduino project folder
+  NOTE: include files that are not installed via library (like this one) must be copied into arduino project folder
 */
 
 #include "Button.h" //include button class header file
