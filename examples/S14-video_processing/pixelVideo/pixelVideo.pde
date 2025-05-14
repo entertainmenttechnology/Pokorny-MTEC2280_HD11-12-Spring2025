@@ -30,7 +30,7 @@ float alpha = 127;
 float rThresh = 210;
 float gThresh = 150;
 float bThresh = 150;
-float pixelSize = 20;
+int pixelSize = 8;
 
 void setup() 
 {
@@ -67,9 +67,7 @@ void draw()
 {
   background(0);
   video.loadPixels(); 
-  
-  alpha = map(mouseX, 0, width, 16, 255);  //set transparency level with mouse X
-  pixelSize = map(mouseY, 0, height, 5, 50);  //set pixel size with mouse Y
+ 
   
   for (int x = 0; x < video.width; x++) //for every column...
   {
@@ -81,26 +79,28 @@ void draw()
       float r = red   (video.pixels[loc]);
       float g = green (video.pixels[loc]);
       float b = blue  (video.pixels[loc]);
-    
-      if (r > rThresh)  //if this pixel's red value is above threshold...
-      {
-        //println(r);
-        stroke(255, 255, 255, alpha);  //set color to white
-        square(x, y, pixelSize);  //draw square at pixel location
-      }
       
-      if (g > gThresh)  //if this pixel's green value is above threshold...
+      if (x % pixelSize == 0 && y % pixelSize == 0)
       {
-        //println(r);
-        stroke(127, 127, 127, alpha);  //set color to light grey
-        square(x, y, pixelSize);  //draw square at pixel location 
-      }
+
         
-      if (b > bThresh)  //if this pixel's blue value is above threshold...
-      {
-        //println(r);
-        stroke(32, 32, 32, alpha);  //set color to dark grey
-        square(x, y, pixelSize);  //draw square at pixel location
+        if (b > bThresh)  //if this pixel's blue value is above threshold...
+        {
+          stroke(64, 64, 64);  //set color to dark grey
+          square(x, y, pixelSize * 4);  //draw square at pixel location
+        }
+        
+                if (g > gThresh)  //if this pixel's green value is above threshold...
+        {
+          stroke(127, 127, 127);  //set color to light grey
+          square(x, y, pixelSize * 2);  //draw square at pixel location 
+        }
+        
+                if (r > rThresh)  //if this pixel's red value is above threshold...
+        {
+          stroke(255, 255, 255);  //set color to white
+          square(x, y, pixelSize);  //draw square at pixel location
+        }
       }
     }
   }
