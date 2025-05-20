@@ -1,7 +1,7 @@
 
 ## SESSION 08
 
-## SHORT SKETCH #4: DUE 4/2
+## SHORT SKETCH #3: DUE 4/2
 Use (at least) 4 hardware sensors to control a Processing sketch. You may use any combination of buttons, potentiometers, photocell, or touch points as your sensor. The Processing sketch must include:
 - use of sensor data (transmitted via UART) to control multiple elements of your Processing sketch.
 - use of map() function
