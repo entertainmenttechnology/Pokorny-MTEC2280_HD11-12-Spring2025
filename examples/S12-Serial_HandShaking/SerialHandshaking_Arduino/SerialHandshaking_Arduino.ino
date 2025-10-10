@@ -26,7 +26,7 @@ int adcRead_2 = 0;
 //Serial Rx Data Variable
 int inByte = 0;
 
-void setup() 
+void setup()
 {
   pinMode(buttonPin_1, INPUT_PULLUP); //set pin modes
   pinMode(buttonPin_2, INPUT_PULLUP);
