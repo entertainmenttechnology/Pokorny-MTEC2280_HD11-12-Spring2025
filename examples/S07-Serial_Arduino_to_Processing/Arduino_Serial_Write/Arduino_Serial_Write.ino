@@ -46,7 +46,7 @@ void loop()
       NOTE: Uncomment Serial.println() OR Serial.write(), but not both!
     */
 
-    //Serial. println(val); //to send human-readable data to Arduino monitor
+    //Serial. println(adcRead); //to send human-readable data to Arduino monitor
     Serial.write(adcRead);  //to send binary data to Processing
 
     //code in here will only run every 20ms, freeing up our CPU for other tasks
