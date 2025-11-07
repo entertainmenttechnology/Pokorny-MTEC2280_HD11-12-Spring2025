@@ -20,7 +20,7 @@ void setup()
 {
   pinMode(LED1, OUTPUT); // set pin as output
   pinMode(LED2, OUTPUT); // set pin as output
-  Serial.begin(115200); // Start serial communication at 9600 bps
+  Serial.begin(9600); // Start serial communication at 9600 bps
 }
 
 void loop() 
